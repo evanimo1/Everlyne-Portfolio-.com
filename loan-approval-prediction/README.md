@@ -7,8 +7,9 @@ This project analyzes loan application data to identify key factors that influen
 [Kaggle Dataset](https://www.kaggle.com/datasets/krishnaraj30/finance-loan-approval-prediction-data)
 
 ###  Tools Used
-- R / Excel for data analysis and modeling
-- Power BI / Tableau for dashboard creation
+- Python (Pandas, Seaborn, Scikit-learn)
+- Google Colab for code execution and notebooks
+- Power BI / Tableau for dashboard creation (planned)
 - GitHub for documentation and version control
 
 ###  Business Questions
@@ -23,21 +24,45 @@ This project analyzes loan application data to identify key factors that influen
 - Education vs Approval Status
 
 ###  Model Summary
-A logistic regression model will be trained using features like:
-- Applicant Income
-- Credit History
-- Loan Amount
+Multiple models were trained and evaluated:
+- Logistic Regression
+- Random Forest Classifier
+- K-Nearest Neighbors (KNN)
+
+Performance was compared using:
+- Accuracy
+- Confusion Matrix
+- Precision and Recall
+
+Features used:
+- Applicant Income  
+- Credit History  
+- Loan Amount  
+- Property Area  
+- Education  
+- Self Employment  
 - Property Area
 
 ###  Project Structure
 loan-approval-prediction/
-├── data/                 # Raw and cleaned data
-├── code/                 # R or Excel analysis
-├── visuals/              # PNG charts from Power BI/Tableau
-├── dashboard/            # Dashboard links or screenshots
-└── README.md             # Project description
+├── data/ # Raw and cleaned data
+├── code/
+│ ├── Loan_Approval_Prediction.ipynb # Data cleaning and EDA
+│ └── Model_Building.ipynb # Model training and evaluation
+├── visuals/ # PNG charts from Power BI/Tableau
+├── dashboard/ # Dashboard links or screenshots
+└── README.md # Project description
 
-### 📎 Dashboard Link
+yaml
+Copy code
+
+###  Dashboard Link
 Coming soon: [Tableau Public](https://public.tableau.com/) or [Power BI Service](https://app.powerbi.com/)
+
+---
+
+###  Author
+**Everlyne Kariuki**  
+GitHub: [Everlyne-Portfolio-.com](https://github.com/evanimo1)
 
 ---
