@@ -44,19 +44,14 @@ Features used:
 - Property Area
 
 ###  Project Structure
-```bash
-loan-approval-prediction/
-├── data/                         
-│   └── loan_data_cleaned_with_status.csv    # Cleaned dataset used for modeling
-├── code/                         
-│   ├── Loan_Approval_Prediction.ipynb       # Data cleaning and EDA
-│   └── Model_Building.ipynb                 # Model training and evaluation
-├── visuals/                      # PNG charts from Power BI/Tableau (to be added)
-├── dashboard/                    # Dashboard screenshots or links (to be added)
-└── README.md                     # Project overview and documentation
+- `data/`: Contains the raw and cleaned datasets (e.g. `loan_data_cleaned_with_status.csv`)
+- `code/`: Python notebooks for data cleaning, EDA, and model training  
+  - `Loan_Approval_Prediction.ipynb` – for cleaning and preprocessing  
+  - `Model_Building.ipynb` – for training and evaluating machine learning models
+- `visuals/`: Visualizations and charts (to be added)
+- `dashboard/`: Screenshots or links to interactive dashboards (to be added)
+- `README.md`: Project overview and documentation
 
-yaml
-Copy code
 
 ###  Dashboard Link
 Coming soon: [Tableau Public](https://public.tableau.com/) or [Power BI Service](https://app.powerbi.com/)
