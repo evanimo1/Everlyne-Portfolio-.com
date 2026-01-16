@@ -1,7 +1,7 @@
 #  Loan Approval Prediction
 
 ###  Project Overview
-This project analyzes loan application data to identify key factors that influence loan approval decisions. The goal is to create a predictive model using financial and demographic data to help banks make more efficient and data-driven decisions.
+This project analyzes loan application data to identify key drivers of loan approval decisions. Using financial and demographic features, I built a KPI dashboard and deep-dive analysis to uncover approval patterns and translate insights into actionable recommendations for data-driven lending decisions.
 
 ###  Dataset
 [Kaggle Dataset](https://www.kaggle.com/datasets/krishnaraj30/finance-loan-approval-prediction-data)
@@ -9,7 +9,7 @@ This project analyzes loan application data to identify key factors that influen
 ###  Tools Used
 - Python (Pandas, Seaborn, Scikit-learn)
 - Google Colab for code execution and notebooks
-- Power BI / Tableau for dashboard creation (planned)
+- Power BI  for dashboard creation 
 - GitHub for documentation and version control
 
 ###  Business Questions
@@ -48,8 +48,8 @@ Features used:
 - `code/`: Python notebooks for data cleaning, EDA, and model training  
   - `Loan_Approval_Prediction.ipynb` – for cleaning and preprocessing  
   - `Model_Building.ipynb` – for training and evaluating machine learning models
-- `visuals/`: Visualizations and charts (to be added)
-- `dashboard/`: Screenshots or links to interactive dashboards (to be added)
+- `visuals/`: Visualizations and charts 
+- `dashboard/`: Screenshots or links to interactive dashboards 
 - `README.md`: Project overview and documentation
 
 
