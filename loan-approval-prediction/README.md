@@ -54,7 +54,12 @@ Features used:
 
 
 ###  Dashboard Link
-Coming soon: [Tableau Public](https://public.tableau.com/) or [Power BI Service](https://app.powerbi.com/)
+##  Loan Approval Analysis (Power BI)
+
+Interactive dashboard analyzing loan approval trends, KPIs, and key drivers with actionable recommendations.
+
+🔗 **Live Dashboard:**  
+https://app.powerbi.com/view?r=eyJrIjoiOGM1MjYyMWEtMmFjZi00YjdjLTgxMWQtYjBlODZkOWY1ZDJjIiwidCI6ImY2YjZkZDViLWYwMmYtNDQxYS05OWEwLTE2MmFjNTA2MGJkMiIsImMiOjZ9
 
 ---
 
