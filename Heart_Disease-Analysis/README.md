@@ -9,7 +9,7 @@ This project analyzes synthetic health data to explore symptoms and lifestyle fa
 - Label: Heart_Risk (0 = Low risk, 1 = High risk)
 
 ## Tools Used
-- Microsoft Excel: Data cleaning, transformation, and basic analysis
+- Microsoft Excel: Data cleaning, transformation, summary statistics and pivot tables
 - Power BI: Advanced interactive visualizations, KPI dashboards
 - GitHub: Version control and documentation
 
