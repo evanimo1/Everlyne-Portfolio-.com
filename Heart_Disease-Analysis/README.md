@@ -1,4 +1,4 @@
-# Heart Disease Risk Analysis 🫀
+# Heart Disease Risk Analysis 
 
 ## Project Overview
 This project analyzes synthetic health data to explore symptoms and lifestyle factors associated with heart disease risk. The goal is to demonstrate data visualization and analytics skills using Excel and Power BI.
@@ -17,6 +17,25 @@ This project analyzes synthetic health data to explore symptoms and lifestyle fa
 - Which symptoms and lifestyle factors are most correlated with heart disease risk?
 - How does age affect heart disease risk?
 - What patterns or combinations of symptoms most frequently lead to high risk?
+
+### Key KPIs
+- Total number of high-risk patients  
+- % of patients at high risk  
+- % of males at high risk  
+- % of obese individuals at high risk  
+- % of patients aged 60+ at high risk
+
+###  Key Findings
+- Over 50% of patients are categorized as high risk  
+- 70% of obese individuals and 63% of male patients are high risk  
+- 75% of patients aged 60+ are high risk  
+- Obesity, age, and gender are the most influential factors
+
+
+###  Recommendations
+- Focus health interventions on older, obese male populations  
+- Promote lifestyle changes targeting obesity and inactivity  
+- Use dashboards to monitor trends and guide preventive care
 
 ## Visual Analytics (Power BI)
 - Heart risk breakdown by age group
